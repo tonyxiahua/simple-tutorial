@@ -3,7 +3,6 @@ Turtoial from https://lala.im/3684.html
 
 Parastor;123
 
-
 ```
 ifconfig
 ```
@@ -56,3 +55,12 @@ vi /etc/dnsmasq.conf
 service dnsmasq restart
 ```
 This command usually restart the dns router inside the machine
+
+China server has failed setup due to the censorship.
+However the US server is successfully deployed
+Here is command that we deplyed.
+
+
+```
+```
+
